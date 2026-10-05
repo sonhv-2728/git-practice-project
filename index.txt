@@ -2,3 +2,5 @@ Email: hoang.van.son@sun-asterisk.com
 Name: Hoang Van son
 Staff code: B122728
 Role: QA
+Unit: CEV C1
+Manager name: Vu Thi My Linh
